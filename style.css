@@ -41,3 +41,29 @@ ul {
     height: 20px;
     margin-right: 10px;
 }
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+form {
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 4px;
+}
+input {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing:border-box;
+}
+button {
+    background-color: black;
+    color: white;
+}
+.footer-icons {
+    margin: 2px;
+    width: 40px;
+    height: 40px;
+    margin-right:10px;
+}
